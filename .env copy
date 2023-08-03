@@ -1,1 +1,1 @@
-DATABASE_URL = "postgresql://lil:-sjHLL9RpOVOel9iJIfcVQ@ransomware-4842.g8z.cockroachlabs.cloud:26257/ransomware?sslmode=verify-full"
+DATABASE_URL = ""
