@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS ransomware(
+    id SERIAL PRIMARY KEY,
+    group VARCHAR(255) NOT NULL,
+    title VARCHAR(255) NOT NULL,
+    date DATE NOT NULL
+);

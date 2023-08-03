@@ -1,0 +1,16 @@
+beautifulsoup4
+gspread
+oauth2client
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+streamlit   
+streamlit-aggrid
+dotenv
+gsheetsdb
+pandasql
+streamlit-agraph
+pandas-profiling
+streamlit-pandas-profiling
+plotly.express
+streamlit-extras
